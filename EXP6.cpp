@@ -1,4 +1,3 @@
-shift reduce 
 #include <stdio.h>
 #include <string.h>
 
